@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiModuleApp</string>
+    <string name="stream_a">Stream A</string>
+    <string name="stream_b">Stream B</string>
+
+    <string name="stream_a_name">Stream_A</string>
+    <string name="stream_b_name">Stream B</string>
+</resources>
